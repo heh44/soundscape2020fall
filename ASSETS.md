@@ -1,11 +1,11 @@
 
 | Needs | Solutions |
 | --------------- | --------------- |
-| stepping on fresh snow | freesound | 
+| stepping on fresh snow | freesound https://freesound.org/people/kyles/sounds/451971/ | 
 | packed snow | freesound |
 | sliding on ice | freesound | 
-| ice cracking | twisting an ice tray |
-| trees falling | freesound |
+| ice cracking | twisting an ice tray https://freesound.org/people/dheming/sounds/268023/ |
+| trees falling | freesound https://freesound.org/people/Kinoton/sounds/494071/ |
 | ems siren | wikimedia commons https://commons.wikimedia.org/wiki/File:American_police_siren_i.ogg |
 | footsteps echoing in a damp cave | wikimedia commons youtube library|
 | branches being stepped on | record |
