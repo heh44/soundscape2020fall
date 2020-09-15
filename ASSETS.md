@@ -12,3 +12,4 @@
 | slipping on a rock | record |
 | voices | record dialogue |
 | indisitinct voices | record chatter |
+| heavy breathing | https://freesound.org/people/parkersenk/sounds/452698/ |
